@@ -133,7 +133,7 @@ header .container {
   background: #1e2c35; }
 
 .planos h2 {
-  color: #fff; }
+  color: red; }
 
 .plano {
   background: white;
@@ -146,7 +146,7 @@ header .container {
   background: #dedede; }
 
 .plano h3 {
-  color: #fff;
+  color: red;
   font-size: 1.8em;
   background: orange;
   text-align: center;
@@ -178,7 +178,7 @@ header .container {
 .plano button {
   background: orange;
   border: 0;
-  color: #fff;
+  color: red;
   width: 210px;
   height: 38px;
   font-size: 1.2em;
@@ -260,7 +260,7 @@ textarea {
   margin: 0 auto;
   background: orange;
   border: 0;
-  color: #fff;
+  color: red;
   width: 210px;
   height: 38px;
   font-size: 1.2em;
@@ -323,7 +323,7 @@ footer .container img {
   display: inline; }
 
 footer a {
-  color: #fff;
+  color: red;
   text-decoration: none; }
 
 .social li {
